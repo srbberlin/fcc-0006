@@ -1,0 +1,51 @@
+#head h1 {
+  fond-weight: bold;
+  padding: 10% 20%;
+}
+
+.label {
+  width: 250px;
+  text-align: right;
+}
+
+.sel {
+  background-color: #FFF59C;
+  text-align: center;
+  width: 30px;
+}
+
+.st {
+  width: 350px;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+td {
+  vertical-align: top;
+  padding: 10px 0;
+}
+
+.label img, .label i {
+  width: 30px;
+  margin: 0 10px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+[name=sel] {
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+.container {
+  margin: 100px auto;
+  padding: 20px;
+  width: 60%;
+  background-color: #E8E7E6;
+}
