@@ -1,5 +1,5 @@
 # fcc-0006
-Twitch Selections
+FreeCodeCamp: Twitch Selections
 
 Packages:
 
